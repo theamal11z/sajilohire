@@ -2,6 +2,13 @@
 
 SajiloHire is an intelligent hiring platform that revolutionizes recruitment through AI-powered candidate onboarding, smart scoring algorithms, and comprehensive candidate assessment. Built for the Aqore Hackathon, it combines cutting-edge AI technology with modern web development to streamline the hiring process.
 
+## 📂 Repository Structure
+
+This project is split across two separate repositories:
+
+- **Frontend Repository**: [https://github.com/theamal11z/sajilohire-frontend.git](https://github.com/theamal11z/sajilohire-frontend.git)
+- **Backend Repository**: [https://github.com/theamal11z/sajilohire-backend.git](https://github.com/theamal11z/sajilohire-backend.git)
+
 ## 📁 Project Structure
 
 ```
